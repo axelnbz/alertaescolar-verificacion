@@ -32844,9 +32844,9 @@ T(a){return new A.oY(new A.qX(null),"Alerta Escolar - Verificacion de Cuenta",!1
 A.qX.prototype={
 ar(){return new A.Fc(new A.y(4279947925),new A.y(4280163870),new A.y(4281084972),new A.y(4280558628),new A.y(4284177243),B.p)}}
 A.Fc.prototype={
-T(a){var s=null,r="Registro Completado",q="La creaci\xf3n de su cuenta fue exitosa. Por favor, vuelva a la aplicaci\xf3n para iniciar sesi\xf3n.",p=t.w,o=A.dr(a,s,p).w.a,n=o.a,m=A.a([this.f,this.r],t.bk),l=t.nA,k=o.b,j=this.d,i=n*0.8,h=k*0.04
-p=A.dr(a,s,p).w.a.a<1400?A.a_e(A.a([A.a0g(B.ia,j,k*0.2),A.Qu(r,A.h3(s,s,j,s,s,s,s,s,s,s,s,k*0.03,s,s,B.cy,s,s,!0,s,s,s,s,s,s,s,s),s),A.zb(s,h,s),A.HL(s,A.Qu(q,A.h3(s,s,B.h,s,s,s,s,s,s,s,s,k*0.018,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.cg),s,s,s,s,s,i)],l),B.np):A.a_e(A.a([A.a0g(B.ia,j,k*0.22),A.Qu(r,A.h3(s,s,j,s,s,s,s,s,s,s,s,k*0.05,s,s,B.cy,s,s,!0,s,s,s,s,s,s,s,s),s),A.zb(s,h,s),A.HL(s,A.Qu(q,A.h3(s,s,B.h,s,s,s,s,s,s,s,s,k*0.025,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.cg),s,s,s,s,s,i)],l),B.np)
-return new A.q8(A.HL(s,p,s,new A.fn(s,s,s,s,s,new A.le(B.tI,B.tJ,B.ch,m,s,s),B.bw),s,s,s,n),s)}}
+T(a){var s=null,r="Registro Completado",q="La creaci\xf3n de su cuenta fue exitosa. Por favor, vuelva a la aplicaci\xf3n para iniciar sesi\xf3n.",p="Quicksand",o=t.w,n=A.dr(a,s,o).w.a,m=n.a,l=A.a([this.f,this.r],t.bk),k=t.nA,j=n.b,i=this.d,h=j*0.02
+o=A.dr(a,s,o).w.a.a<1400?A.a_e(A.a([A.a0g(B.ia,i,j*0.2),A.Qu(r,A.h3(s,s,i,s,s,s,s,s,"Raleway",s,s,j*0.03,s,s,B.cy,s,s,!0,s,s,s,s,s,s,s,s),s),A.zb(s,h,s),A.HL(s,A.Qu(q,A.h3(s,s,B.h,s,s,s,s,s,p,s,s,h,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.cg),s,s,s,s,s,m*0.9)],k),B.np):A.a_e(A.a([A.a0g(B.ia,i,j*0.22),A.Qu(r,A.h3(s,s,i,s,s,s,s,s,"Raleway",s,s,j*0.05,s,s,B.cy,s,s,!0,s,s,s,s,s,s,s,s),s),A.zb(s,h,s),A.HL(s,A.Qu(q,A.h3(s,s,B.h,s,s,s,s,s,p,s,s,j*0.025,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),B.cg),s,s,s,s,s,m*0.8)],k),B.np)
+return new A.q8(A.HL(s,o,s,new A.fn(s,s,s,s,s,new A.le(B.tI,B.tJ,B.ch,l,s,s),B.bw),s,s,s,m),s)}}
 A.vD.prototype={}
 A.iC.prototype={
 ft(a,b){var s,r,q,p,o
